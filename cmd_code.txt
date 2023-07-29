@@ -1,0 +1,16 @@
+cmd
+
+conda create -p venv python==3.10
+
+conda activate <path_of_the_env>
+
+
+pip list
+
+pip install <package name>
+
+bash
+
+conda create -p venv python=3.10 -p
+
+source activate ./venv
