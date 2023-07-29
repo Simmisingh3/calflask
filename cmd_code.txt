@@ -14,3 +14,6 @@ bash
 conda create -p venv python=3.10 -p
 
 source activate ./venv
+
+
+task -create a beautiful html page for this app
